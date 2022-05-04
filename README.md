@@ -1,5 +1,5 @@
 <h1 align="center">
-  :mortar_board: Portfolio :mortar_board:
+  🎓 Portfolio 🎓
 </h1>
 
 <p align="center">
@@ -15,13 +15,13 @@
 Repositório para o meu portfólio e página pessoal, está sob construção.
 
 
-## :rocket: Link
+## 🚀 Link
 
 Clique [aqui](https://Gabriel-Wendel.github.io/) para abrir.
+Clique [aqui] (https://Gabriel-Wendel.github.io/challenge01-ONE/index.html) para a visualizar o 1° desafio da Oracle ONE.
 
-## :telephone: Contato
+## ☎️ Contato
 
 Para mais informações acesse meu [LinkedIn](https://www.linkedin.com/in/gabriel-wendel-de-oliveira/) e outros repositórios aqui no GitHub. 
 
 Meu e-mail: xiolones@gmail.com
-
