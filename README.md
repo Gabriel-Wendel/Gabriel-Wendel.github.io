@@ -17,11 +17,12 @@ Repositório para o meu portfólio e página pessoal, está sob construção.
 
 ## 🚀 Link
 
-Clique [aqui](https://Gabriel-Wendel.github.io/) para abrir. <br>
-Clique [aqui](https://Gabriel-Wendel.github.io/challenge01-ONE/index.html) para a visualizar o 1° desafio da Oracle ONE.
+Clique <a href= "https://Gabriel-Wendel.github.io/"> [aqui]  </a>  para abrir. <br>
+Clique <a href= "https://Gabriel-Wendel.github.io/challenge01-ONE/index.html"> [aqui]  </a>  para a visualizar o 1° desafio da Oracle ONE. <br>
 
 ## ☎️ Contato
 
-Para mais informações acesse meu [LinkedIn](https://www.linkedin.com/in/gabriel-wendel-de-oliveira/) e outros repositórios aqui no GitHub. 
+Para mais informações acesse meu <a href= "https://www.linkedin.com/in/gabriel-wendel-de-oliveira/"> [Linkedin]
+</a> e outros repositórios aqui no GitHub. 
 
 Meu e-mail: xiolones@gmail.com
