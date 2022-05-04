@@ -17,8 +17,8 @@ Repositório para o meu portfólio e página pessoal, está sob construção.
 
 ## 🚀 Link
 
-Clique [aqui](https://Gabriel-Wendel.github.io/) para abrir.
-Clique [aqui] (https://Gabriel-Wendel.github.io/challenge01-ONE/index.html) para a visualizar o 1° desafio da Oracle ONE.
+Clique [aqui](https://Gabriel-Wendel.github.io/) para abrir. <br>
+Clique [aqui](https://Gabriel-Wendel.github.io/challenge01-ONE/index.html) para a visualizar o 1° desafio da Oracle ONE.
 
 ## ☎️ Contato
 
